@@ -43,3 +43,4 @@ export FLASK_ENV = development
 
 Step 6 --> Open AWS, Select the Security Group and Add a Custom Inbound Rule to open up port 5000
 
+

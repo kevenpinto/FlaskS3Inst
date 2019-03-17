@@ -1,0 +1,3 @@
+graft flaskS3/static
+graft flaskS3/templates
+global-exclude *.pyc
